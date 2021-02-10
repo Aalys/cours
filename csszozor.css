@@ -1,0 +1,21 @@
+/* organisation header */
+body{
+    display: flex;
+    flex-direction: column;
+}
+header
+{
+    display: flex;
+    align-items: flex-end;
+}
+.bloc
+{
+    display: flex;
+    flex-direction: column;
+}
+/* remove chip, alignment */
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+}
